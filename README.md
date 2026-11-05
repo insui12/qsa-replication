@@ -7,12 +7,12 @@ Replication files for the manuscript.
 
 | File | Content | SHA-256 |
 |---|---|---|
-| `QSA_SQJ_manuscript.pdf` | Manuscript | `2447bb6e0734624d60736fc6e1a23e98d48dcd0240cd0a7abb4ce19f8b425ed0` |
-| `QSA_SQJ_Online_Resource_1.pdf` | Online Resource 1: full tables and supporting analyses | `b7f25803c4eb7f4116238211a1032f57793e29825fe778031491239dcfbe61b0` |
-| `QSA_SQJ_Online_Resource_2.zip` | Online Resource 2: data, code and reproduction package ([release asset](https://github.com/insui12/qsa-replication/releases/tag/v1.0)) | `985ae8054d73cae1116699c6a9303a53d97e4d86b32f469dd0f543216d208a00` |
-| `QSA_SQJ_latex_source.tar.gz` | LaTeX source of the manuscript | `3afee3eedc5e9015e746ec3f355662b6b8be32d39f7cb97d71e779c02ec12d9b` |
+| `QSA_SQJ_manuscript.pdf` | Manuscript | `54be8e9b6f5e8c407842d28e4abf60e2cf7f913cecbf53a48cca370fb070afa9` |
+| `QSA_SQJ_Online_Resource_1.pdf` | Online Resource 1: full tables and supporting analyses | `a87d4c6dbb7e285eeeada802ffe84a8e46daa30b8ef1124366e1bf634643375c` |
+| `QSA_SQJ_Online_Resource_2.zip` | Online Resource 2: data, code and reproduction package ([release asset](https://github.com/insui12/qsa-replication/releases/tag/v1.1)) | `985ae8054d73cae1116699c6a9303a53d97e4d86b32f469dd0f543216d208a00` |
+| `QSA_SQJ_latex_source.tar.gz` | LaTeX source of the manuscript | `36f795c37be24c2b8ba323c6b2d8ca005dfe030bfa0f525ba39481a79f5e9bea` |
 
-Online Resource 2 (139 MB) is attached to release `v1.0` because it exceeds the GitHub file size limit.
+Online Resource 2 (139 MB) is attached to release `v1.1` (identical to the `v1.0` asset) because it exceeds the GitHub file size limit.
 Check a download with `sha256sum <file>`.
 
 ## Reproduce
